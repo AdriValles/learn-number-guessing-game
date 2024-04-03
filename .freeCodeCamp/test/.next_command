@@ -42,3 +42,5 @@ git add number_guess.sh
 git commit -m "feat: create function to save new user"
 git add number_guess.sh
 git commit -m "feat: create function to save the game"
+./number_guess.sh
+./number_guess.sh
